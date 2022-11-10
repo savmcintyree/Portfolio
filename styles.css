@@ -1,0 +1,146 @@
+
+body {
+    background-color: #cbc3e3;
+}
+
+.title_message {
+    text-align: center;
+    background-color: white;
+    margin:20px auto;
+    width: max-content;
+    padding: 0px 200px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #702963;
+}
+
+ul {
+    list-style-type: none;
+    margin:20px auto;
+    width: max-content;
+    padding: 0px 150px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float:left;
+    text-align: center;
+  }
+  
+  li a {
+    display: block;
+    color: #702963;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  li a:hover {
+    background-color: whitesmoke;
+  }
+
+  #mainpage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+  }
+
+  .AboutMe {
+    background-color: white;
+    width: max-content;
+    margin:20px auto;
+    padding: 0px 200px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #702963;
+  }
+
+  #biography {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px
+  }
+
+  #ava {
+  width: 30%;
+  }
+
+  #ava2 {
+  width:30%;
+}
+
+#eye {
+  width:30%;
+}
+
+#fish {
+  width:36.75%;
+}
+
+#tulips {
+  width:30.75%;
+}
+
+#poem {
+  width:30%
+}
+
+.softwaretitle {
+  background-color: white;
+    width: max-content;
+    margin:20px auto;
+    padding: 0px 200px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #702963;
+}
+
+#why {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:20px
+}
+
+#software {
+  width:30%
+}
+
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid rgb(62, 17, 68); 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+
+input[type=submit] {
+  background-color: #c9ade9;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #7b45a0;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #ece6f7;
+  padding: 20px;
+  margin-top: 3%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
