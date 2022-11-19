@@ -105,11 +105,13 @@ ul {
 
 #why {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size:20px
+  font-size:20px;
 }
 
 #software {
-  width:30%
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 40%;
 }
 
 input[type=text], select, textarea {
